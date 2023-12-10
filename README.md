@@ -8,4 +8,4 @@ en.jsonl: The responses of Chinese models we collect on our framework.
 
 ## Code
 
-Code will coming soon.
+The code will come soon.
