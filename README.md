@@ -75,3 +75,16 @@ npm run build
 en.jsonl: The responses of English models we collect on our framework.
 
 en.jsonl: The responses of Chinese models we collect on our framework.
+
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+```
+@inproceedings{ma2023ffaeval,
+  title={FFAEval: Evaluating Dialogue System via Free-For-All Ranking},
+  author={Ma, Zeyao and Yao, Zijun and Zhang, Jing and Yu, Jifan and Zhang, Xiaohan and Li, Juanzi and Tang, Jie},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={15672--15684},
+  year={2023}
+}
+```
