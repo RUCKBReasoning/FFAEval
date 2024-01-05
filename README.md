@@ -37,6 +37,11 @@ python modify_model -action delete --model_name MODEL
 flask --app app run --host=IP_ADDRESS --port=PORT
 ```
 
+**Calculate Result.**
+```
+python main_result.py
+```
+
 ### Frontend
 
 **Change the vue config**

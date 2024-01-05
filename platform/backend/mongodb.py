@@ -83,3 +83,7 @@ def get_session_rank_and_order(session_id):
     rank_list.sort(key=lambda k: (k.get('chosen_num', 0)), reverse=True)
     
     return rank_list, bot_order_list
+
+def get_session_all():
+    session_list = client.session.find({}, {'_id': 0})
+    return list(session_list)
