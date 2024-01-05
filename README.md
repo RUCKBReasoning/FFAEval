@@ -72,9 +72,9 @@ npm run build
 
 ## Data
 
-en.jsonl: The responses of English models we collect on our framework.
+data/en.jsonl: The responses of English models we collect on our framework.
 
-en.jsonl: The responses of Chinese models we collect on our framework.
+data/zh.jsonl: The responses of Chinese models we collect on our framework.
 
 ## Citation
 
